@@ -1,0 +1,41 @@
+﻿BOXNAME(box name 1 test)
+Code Results
+1822 0074 9196 4386 9215 8434 is a Stock Photo
+(Your product may vary)
+
+BOXNAME(box name 2 test)
+
+Code Results
+ratulations! 2048 5787 1788 3675 9614 1994 is a valid code.
+Stock Photo
+
+(Your product may vary)
+Code Results
+tulations! 9509 8283 5802 1579 9038 2733 is a valid Stock Photo
+(Your product may vary)
+
+(Your product may vary)
+Code Results
+tulations! 9509 8283 5802 1579 9038 0000 is a valid Stock Photo
+(Your product may vary)
+
+SN2(12345678)
+SN2(88888882)
+SN2(88888885)
+
+BOXNAME(box name 3 test)
+
+(Your product may vary)
+Code Results
+tulations! 9509 8283 5802 1579 9038 1111 is a valid Stock Photo
+(Your product may vary)
+
+
+
+(Your product may vary)
+Code Results
+tulations! 9509 8283 5802 1579 9038 2223 is a valid Stock Photo
+(Your product may vary)
+
+BOXNAME(box name 4 test)
+SN2(88888887)
